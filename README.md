@@ -1,7 +1,10 @@
-testfile to push something to git from here
-
-some text
-
-
-## Local devolopment 
-1. Open index.html in your browser.
+void main() {
+  
+ //<datatytpe> <variablename> = value;
+  
+print(302);
+print(51);
+  print(302*51);
+  print(302+51);
+print(302-51);
+}
