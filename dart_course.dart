@@ -43,7 +43,21 @@ print('${weightInKgs*5}€ is the price');
   
 }
   
+
+  // second chapter loops 
   
+  // i++ -> i=i+1
+  // i-- -> i=i-1
+  // i+=2 -> i=1
+
+
+  void main() {
+  for (int i = 0; i < 5; i++) {
+    print('hello ${i + 1}');
+  }
+}
+  
+  i changed something
   
   
     
